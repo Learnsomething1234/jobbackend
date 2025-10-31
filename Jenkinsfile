@@ -76,7 +76,7 @@ description: 'Credentials ID for the deployment API key (Secret Text)')
       '''
     }
     mail (
-      to: 'xaioene@gmail.com',
+      to: 'nithishankitha1234@gmail.com',
       subject: "Jenkins Success: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
       body: """Hello, The Jenkins pipeline for ${env.JOB_NAME} (build #${env.BUILD_NUMBER}) has succeeded.
 * Branch: ${env.BRANCH_NAME}
