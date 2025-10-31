@@ -1,8 +1,8 @@
 import requests 
  
 API_URL = "http://44.200.215.157:3000/api/project.all" 
-api_key = "yOyrghjlOGMAENPRfchkthuhYnLHmimfGtteZzrRbBFGnSPnnHIkDOEZkgunfusN" 
-app_name = "job1-jobbackend-cjdfig" 
+api_key = "bLAaSWAgwGNmPotbVaQPpFKjsaGDFrrcTPIFgvFavwGxzMxvfGDzYDzNHWjovAQK" 
+app_name = "job1-backend-0vplws" 
 
  
 def get_application_id(): 
