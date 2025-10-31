@@ -1,8 +1,8 @@
 import requests 
  
 API_URL = "http://44.200.215.157:3000/api/project.all" 
-api_key = "bLAaSWAgwGNmPotbVaQPpFKjsaGDFrrcTPIFgvFavwGxzMxvfGDzYDzNHWjovAQK" 
-app_name = "job1-backend-0vplws" 
+api_key = "ihoWjcWYtzkzjPfFHguXQRqelPQTgvEAjFDsTsDQiexDDmJipdGUZoKMkYKnPNQi" 
+app_name = "jobportal-backend-kkdnhf" 
 
  
 def get_application_id(): 
