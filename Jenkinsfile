@@ -2,7 +2,7 @@ pipeline {
   agent any 
  
   environment { 
-    APP_ID = "LemwbTZ1sJLeAuAEwumge"  
+    APP_ID = "T6CKbMWWT7ricUvlONnd6"  
   } 
  
   parameters { 
