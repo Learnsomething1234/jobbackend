@@ -1,8 +1,8 @@
 import requests 
  
-API_URL = "http://13.217.110.187:3000/api/project.all" 
-api_key = "HEbuthBcFEjkkpXBGIqHghmxzXmvrhIzbLRYBRdANptaIFYfuaSiJCBCdGlIrGjd" 
-app_name = "job-backend-popkni"
+API_URL = "http://18.234.247.83:3000//api/project.all" 
+api_key = "KAMPvYYENNryOLMvZTzfFuQWMYMCoyFuldgXOgeEaMXFOFoqbPXdbJPRzeMIiqxE" 
+app_name = "job-backend-ozdq32"
 
 
 
