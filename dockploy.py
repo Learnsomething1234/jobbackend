@@ -1,6 +1,6 @@
 import requests 
  
-API_URL = "http://18.234.247.83:3000//api/project.all" 
+API_URL = "http://18.234.247.83:3000/api/project.all" 
 api_key = "KAMPvYYENNryOLMvZTzfFuQWMYMCoyFuldgXOgeEaMXFOFoqbPXdbJPRzeMIiqxE" 
 app_name = "job-backend-ozdq32"
 
